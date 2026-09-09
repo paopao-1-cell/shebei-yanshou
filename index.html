@@ -196,6 +196,17 @@ document.getElementById('patShow').onclick=function(){
   this.textContent = patIn.type==='password' ? '显示明文' : '隐藏';
 };
 if(TOKEN){patIn.value=TOKEN;patTip.textContent='本机已保存令牌，点「保存令牌」可重新验证';patTip.className='tip';loadPending();}
+(function(){
+  var m=(location.hash||'').match(/[#&]pat=([^&]+)/);
+  if(m&&m[1]){
+    var v=decodeURIComponent(m[1]).trim().replace(/\s+/g,'');
+    TOKEN=v;localStorage.setItem('gh_pat',v);patIn.value=v;
+    try{history.replaceState(null,'',location.pathname+location.search);}catch(e){try{location.hash='';}catch(e2){}}
+    patTip.textContent='已从本地配置页自动填入，点「保存令牌」验证';patTip.className='tip';
+    var cb=document.getElementById('cfgBox');if(cb)cb.scrollIntoView({behavior:'smooth',block:'center'});
+    document.getElementById('patSave').click();
+  }
+})();
 
 var F={qty:{t:'text'},arrival_status:{t:'sel',o:['未到货','部分到货','已到货']},
 accept_status:{t:'sel',o:['待验收','验收合格','复验合格','异常待整改','免验/文件类']},

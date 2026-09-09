@@ -155,7 +155,13 @@ async function gGet(p){var r=await fetch('https://api.github.com/repos/'+REPO+'/
 async function gPut(p,b64,sha,msg){var b={message:msg,content:b64,branch:BR};if(sha)b.sha=sha;var r=await fetch('https://api.github.com/repos/'+REPO+'/contents/'+EP(p),{method:'PUT',headers:H(),body:JSON.stringify(b)});if(!r.ok)throw new Error('写入失败 '+r.status);return r.json();}
 function tip(m,c){var t=document.getElementById('editTip');if(t){t.textContent=m;t.className='tip'+(c?' '+c:'');}}
 function needTok(){if(!TOKEN){var b=document.getElementById('cfgBox');if(b)b.scrollIntoView({behavior:'smooth',block:'center'});alert('请先在「首次使用需填写 GitHub 令牌」处粘贴令牌');return false;}return true;}
-function cells(){return Array.prototype.slice.call(document.querySelectorAll('td.ed[data-id]'));}
+function cells(){
+  return Array.prototype.slice.call(document.querySelectorAll('td.ed'))
+    .map(function(td){
+      var tr=td.closest('tr');
+      return tr ? Object.assign(td, {__id:tr.getAttribute('data-id')}) : null;
+    }).filter(Boolean);
+}
 
 var patTip=document.getElementById('patTip'), patIn=document.getElementById('patInput');
 function dx(v){return '（长度'+v.length+'，前缀'+v.slice(0,4)+'）';}
@@ -214,7 +220,7 @@ accept_date:{t:'date'},issues:{t:'area'}};
 var editOn=false;
 function dirty(){return document.querySelectorAll('td.ed.dirty').length;}
 function updTip(){if(editOn){var n=dirty();tip(n?'有 '+n+' 处改动待保存':'已进入编辑，改完点「保存到台账」',n?'warn':'');}else tip('可编辑列：数量 / 到货 / 验收 / 验收日期 / 异常备注','');}
-function collect(){var o=[];cells().forEach(function(td){var nv=td.getAttribute('data-nv');if(nv===null)return;if(String(nv)!==String(td.getAttribute('data-v')||''))o.push({id:td.getAttribute('data-id'),f:td.getAttribute('data-f'),v:nv});});return o;}
+function collect(){var o=[];cells().forEach(function(td){var nv=td.getAttribute('data-nv');if(nv===null)return;if(String(nv)!==String(td.getAttribute('data-v')||''))o.push({id:td.__id,f:td.getAttribute('data-f'),v:nv});});return o;}
 document.getElementById('editBtn').onclick=function(){
   if(!editOn&&!needTok())return;
   editOn=!editOn;
@@ -260,7 +266,7 @@ document.getElementById('saveBtn').onclick=async function(){
     });
     await gPut(DATA,B64S(JSON.stringify(js,null,2)),f.sha,'网页在线编辑：更新 '+ch.length+' 项');
     tip('已保存 '+ch.length+' 项，报告约 1 分钟后自动更新','ok');
-    ch.forEach(function(c){var td=document.querySelector('td.ed[data-id="'+c.id+'"][data-f="'+c.f+'"]');if(td){td.setAttribute('data-v',c.v);td.classList.remove('dirty');}});
+    ch.forEach(function(c){var tds=document.querySelectorAll('tr[data-id="'+c.id+'"] td.ed[data-f="'+c.f+'"]');tds.forEach(function(td){td.setAttribute('data-v',c.v);td.classList.remove('dirty');});});
     updTip();
   }catch(e){tip('保存失败：'+e.message,'err');}
 };

@@ -37,7 +37,7 @@
       "unit": "台",
       "qty": 1,
       "brand": "海尔 LSBLX150/R4(BP)-TNLEA10CA10 ；压缩机头保固二年",
-      "arrival_status": "部分到货",
+      "arrival_status": "未到货",
       "arrival_qty": 0,
       "arrival_date": "",
       "accept_status": "待验收",
@@ -1781,5 +1781,5 @@
     }
   ],
   "updated": "2026-09-07",
-  "__sha": "2085a01d76a20cec0bd4171178fe24ec8bdd8772"
+  "__sha": "cc137f371b6e2554f25efed3eff827e4e53d48d5"
 }

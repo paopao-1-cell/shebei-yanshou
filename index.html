@@ -355,11 +355,11 @@ function compress(file){return new Promise(function(res,rej){
     im.onerror=function(){rej(new Error('图片解码失败'));};im.src=fr.result;};
   fr.onerror=function(){rej(new Error('文件读取失败'));};fr.readAsDataURL(file);
 });}
-async function addPending(p,dev,dt){
+async function addPending(p,dev,dt,origName){
   var f=await gGet(PEND),arr=[],sha='';
   if(f){try{arr=JSON.parse(DEC(f.content));}catch(e){arr=[];}sha=f.sha;}
   if(!Array.isArray(arr))arr=[];
-  arr.push({file:p,device:dev,date:dt,status:'待比对',created:new Date().toISOString()});
+  arr.push({file:p,device:dev,date:dt,origName:origName||'',status:'待比对',created:new Date().toISOString()});
   await gPut(PEND,B64S(JSON.stringify(arr,null,2)),sha,'新增待比对：'+dev);
 }
 async function loadPending(){
@@ -387,10 +387,13 @@ document.getElementById('upBtn').onclick=async function(){
     try{
       l.innerHTML+='<div>正在上传 '+file.name+' …</div>';
       var b64=await compress(file);
-      var ts=dt||new Date().toISOString().slice(0,10);
-      var nm='uploads/'+ts+'_'+dev.replace(/[\\/:*?"<>|]/g,'_')+'_'+file.name.replace(/[\\/:*?"<>|]/g,'_');
+      var now2=new Date();
+      var ts=dt||now2.toISOString().slice(0,10);
+      var ds=ts.replace(/-/g,'');
+      var tms=now2.toISOString().slice(11,19).replace(/:/g,'');
+      var nm='uploads/'+ds+'_'+tms+'_'+String(i+1).padStart(2,'0')+'.jpg';
       await gPut(nm,b64,'','上传验收单：'+dev);
-      await addPending(nm,dev,ts);ok++;
+      await addPending(nm,dev,ts,file.name);ok++;
       l.innerHTML=l.innerHTML.replace('<div>正在上传 '+file.name+' …</div>','');
       l.innerHTML+='<div>'+file.name+' <span class="st st-wait">待比对</span></div>';
     }catch(e){l.innerHTML+='<div style="color:#c0392b">'+file.name+' 失败：'+e.message+'</div>';}

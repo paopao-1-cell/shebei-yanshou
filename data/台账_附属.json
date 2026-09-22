@@ -521,13 +521,13 @@
       "name": "不锈钢无缝管（SUS304）DN25",
       "spec": "GB/T14976-2012 (外径*壁厚)D32*3.5",
       "unit": "米",
-      "qty": 0,
-      "brand": "-",
+      "qty": 12,
+      "brand": "大凯",
       "arrival_status": "已到货",
       "arrival_qty": 2,
       "arrival_date": "2026-09-10",
       "accept_status": "验收合格",
-      "accept_date": "2026-09-11",
+      "accept_date": "2026-09-10",
       "issues": [],
       "evidence": [
         "uploads/20260911_014943_01.jpg"
@@ -618,14 +618,16 @@
       "name": "不锈钢无缝管（SUS304）DN80",
       "spec": "GB/T14976-2012 (外径*壁厚)D89*4",
       "unit": "米",
-      "qty": 48,
-      "brand": "-",
+      "qty": 96,
+      "brand": "大凯/华丰",
       "arrival_status": "已到货",
       "arrival_qty": 48,
       "arrival_date": "2026-09-06",
       "accept_status": "验收合格",
       "accept_date": "2026-09-06",
-      "issues": [],
+      "issues": [
+        "9.2（大凯）与9.6（华丰）各到场48米"
+      ],
       "evidence": [
         "2026-09-06_不锈钢管_送货单副本.jpg",
         "2026-09-06_不锈钢管_质量证明书.jpg"
@@ -640,14 +642,16 @@
       "name": "不锈钢无缝管（SUS304）DN100",
       "spec": "GB/T14976-2012 (外径*壁厚)D108*4",
       "unit": "米",
-      "qty": 30,
-      "brand": "-",
+      "qty": 78,
+      "brand": "华丰",
       "arrival_status": "已到货",
       "arrival_qty": 30,
       "arrival_date": "2026-09-06",
       "accept_status": "验收合格",
-      "accept_date": "2026-09-06",
-      "issues": [],
+      "accept_date": "2026-09-07",
+      "issues": [
+        "9.7到场30米，9.14到场42米，差6米"
+      ],
       "evidence": [
         "2026-09-06_不锈钢管_送货单_温州冠宇.jpg",
         "2026-09-06_不锈钢管_质量证明书.jpg"
@@ -682,13 +686,15 @@
       "spec": "GB/T14976-2012 (外径*壁厚)D159*4.5",
       "unit": "米",
       "qty": 203,
-      "brand": "-",
+      "brand": "华丰",
       "arrival_status": "已到货",
       "arrival_qty": 203,
       "arrival_date": "2026-09-06",
       "accept_status": "验收合格",
       "accept_date": "2026-09-06",
-      "issues": [],
+      "issues": [
+        "9，6到场203米，9.14到场67米，差11米"
+      ],
       "evidence": [
         "2026-09-06_不锈钢管_送货单_温州冠宇.jpg",
         "2026-09-06_不锈钢管_质量证明书.jpg"
@@ -703,14 +709,16 @@
       "name": "不锈钢无缝管（SUS304）DN200",
       "spec": "GB/T14976-2012 (外径*壁厚)D219*6",
       "unit": "米",
-      "qty": 92,
-      "brand": "-",
+      "qty": 122,
+      "brand": "华丰",
       "arrival_status": "已到货",
       "arrival_qty": 92,
       "arrival_date": "2026-09-06",
       "accept_status": "验收合格",
       "accept_date": "2026-09-06",
-      "issues": [],
+      "issues": [
+        "9.6到场92米，9.14到场24米，差6米"
+      ],
       "evidence": [
         "2026-09-06_不锈钢管_送货单_温州冠宇.jpg",
         "2026-09-06_不锈钢管_质量证明书.jpg"
@@ -1782,5 +1790,6 @@
       "out_of_scope": true
     }
   ],
-  "updated": "2026-09-07"
+  "updated": "2026-09-07",
+  "__sha": "e66a78977b30618218401e3aba342ee226bfdf40"
 }

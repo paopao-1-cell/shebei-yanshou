@@ -1093,10 +1093,10 @@
       "unit": "m²",
       "qty": 213,
       "brand": "新金万利新",
-      "arrival_status": "未到货",
+      "arrival_status": "部分到货",
       "arrival_qty": 0,
       "arrival_date": "",
-      "accept_status": "待验收",
+      "accept_status": "异常待整改",
       "accept_date": "2026-10-05",
       "issues": [
         "实际到176.32m²，差36.68"
@@ -2494,5 +2494,5 @@
     }
   ],
   "updated": "2026-10-11",
-  "__sha": "45b0db97a60dfcb6836093fa7a9dc37ff8c299c4"
+  "__sha": "80253aa34d43853388df00f41cdf9b4700ede114"
 }

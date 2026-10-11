@@ -1050,13 +1050,15 @@
       "spec": "厚度1mm",
       "unit": "m²",
       "qty": 154,
-      "brand": "-",
-      "arrival_status": "未到货",
+      "brand": "新金万利新",
+      "arrival_status": "部分到货",
       "arrival_qty": 0,
       "arrival_date": "",
-      "accept_status": "待验收",
-      "accept_date": "",
-      "issues": [],
+      "accept_status": "异常待整改",
+      "accept_date": "2026-10-05",
+      "issues": [
+        "实际到131.38m²，差22.62"
+      ],
       "evidence": [],
       "remark": "仅为平面工程量"
     },
@@ -1069,13 +1071,15 @@
       "spec": "厚度0.75mm",
       "unit": "m²",
       "qty": 415,
-      "brand": "-",
-      "arrival_status": "未到货",
+      "brand": "新金万利新",
+      "arrival_status": "部分到货",
       "arrival_qty": 0,
       "arrival_date": "",
-      "accept_status": "待验收",
-      "accept_date": "",
-      "issues": [],
+      "accept_status": "异常待整改",
+      "accept_date": "2026-10-05",
+      "issues": [
+        "实际到361.02m²，差53.98"
+      ],
       "evidence": [],
       "remark": "仅为平面工程量"
     },
@@ -1088,13 +1092,15 @@
       "spec": "厚度0.6mm",
       "unit": "m²",
       "qty": 213,
-      "brand": "-",
+      "brand": "新金万利新",
       "arrival_status": "未到货",
       "arrival_qty": 0,
       "arrival_date": "",
       "accept_status": "待验收",
-      "accept_date": "",
-      "issues": [],
+      "accept_date": "2026-10-05",
+      "issues": [
+        "实际到176.32m²，差36.68"
+      ],
       "evidence": [],
       "remark": "仅为平面工程量"
     },
@@ -2488,5 +2494,5 @@
     }
   ],
   "updated": "2026-10-11",
-  "__sha": "ec9645a91ebd2dd4599342ffa8f2675844423782"
+  "__sha": "45b0db97a60dfcb6836093fa7a9dc37ff8c299c4"
 }

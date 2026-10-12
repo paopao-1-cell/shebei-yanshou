@@ -41,9 +41,11 @@
       "arrival_qty": 0,
       "arrival_date": "",
       "accept_status": "待验收",
-      "accept_date": "",
+      "accept_date": "2026-10-12",
       "issues": [],
-      "evidence": [],
+      "evidence": [
+        "uploads/20261012_布局测试照片_064522_844z.jpg"
+      ],
       "remark": "设备甲供，空调用，报价安装费"
     },
     {
@@ -2508,5 +2510,5 @@
     }
   ],
   "updated": "2026-10-11",
-  "__sha": "a3d54abb9d64d7d6b67e9a0133bfa23bac21ab5b"
+  "__sha": "97ee5f59d523e3831fe80dd2655ca4638dd0992a"
 }

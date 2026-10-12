@@ -100,9 +100,11 @@
       "arrival_qty": 0,
       "arrival_date": "",
       "accept_status": "待验收",
-      "accept_date": "",
+      "accept_date": "2026-10-12",
       "issues": [],
-      "evidence": [],
+      "evidence": [
+        "uploads/20261012_预处理用_082542_7e6w.jpg"
+      ],
       "remark": ""
     },
     {
@@ -2508,5 +2510,5 @@
     }
   ],
   "updated": "2026-10-11",
-  "__sha": "506827d213a9b0a5871fa5d3e07de1a1ea282538"
+  "__sha": "c628cece7cd2892cd5bd831563186cad919bbd5a"
 }

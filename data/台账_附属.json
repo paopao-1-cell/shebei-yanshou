@@ -60,11 +60,9 @@
       "arrival_qty": 0,
       "arrival_date": "",
       "accept_status": "待验收",
-      "accept_date": "2026-10-12",
+      "accept_date": "",
       "issues": [],
-      "evidence": [
-        "uploads/20261012_E02测试照片_052747_mjjl.jpg"
-      ],
+      "evidence": [],
       "remark": "工艺用一用一备，设备及安装费用"
     },
     {

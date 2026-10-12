@@ -79,11 +79,9 @@
       "arrival_qty": 0,
       "arrival_date": "",
       "accept_status": "待验收",
-      "accept_date": "2026-10-12",
+      "accept_date": "",
       "issues": [],
-      "evidence": [
-        "uploads/20261012_E03测试照片_053431_dk8f.jpg"
-      ],
+      "evidence": [],
       "remark": "热浸镀锌钢≥G235；集水盘G235镀锌钢；散热填料PVC；电机F级绝缘 TEAO无叶罩 IP55"
     },
     {

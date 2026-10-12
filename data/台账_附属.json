@@ -41,9 +41,11 @@
       "arrival_qty": 0,
       "arrival_date": "",
       "accept_status": "待验收",
-      "accept_date": "",
+      "accept_date": "2026-10-12",
       "issues": [],
-      "evidence": [],
+      "evidence": [
+        "uploads/20261012_测试按行上传照片_052053_m900.jpg"
+      ],
       "remark": "设备甲供，空调用，报价安装费"
     },
     {
@@ -2506,5 +2508,5 @@
     }
   ],
   "updated": "2026-10-11",
-  "__sha": "35ae52544fb704c68ab068f5e40de46a88cc08c5"
+  "__sha": "edc4368920c001e9da5febb4df00a16e0e6041bc"
 }

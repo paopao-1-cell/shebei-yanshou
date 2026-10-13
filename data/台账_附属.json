@@ -1300,7 +1300,9 @@
       "accept_status": "验收合格",
       "accept_date": "2026-10-03",
       "issues": [],
-      "evidence": [],
+      "evidence": [
+        "uploads/20261003_不锈钢软接管_081515_hpmb.jpg"
+      ],
       "remark": ""
     },
     {
@@ -2775,5 +2777,5 @@
     }
   ],
   "updated": "2026-10-11",
-  "__sha": "8d3338d398681d2d4ac73a53b2e0bce0b3fab694"
+  "__sha": "2366025a704586d96c4923fd2a620864a1dcb726"
 }

@@ -1176,7 +1176,9 @@
       "issues": [
         "合同标准为9个"
       ],
-      "evidence": [],
+      "evidence": [
+        "uploads/20261003_不锈钢涡轮蝶阀_081325_ofpp.jpg"
+      ],
       "remark": ""
     },
     {
@@ -2771,5 +2773,5 @@
     }
   ],
   "updated": "2026-10-11",
-  "__sha": "c83c602a73087c39065998661d3331ae1b3e5840"
+  "__sha": "c021cc4b3a4ab3fae97dd1748de72be71ae1de22"
 }

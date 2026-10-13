@@ -2762,12 +2762,14 @@
       "accept_status": "验收合格",
       "accept_date": "2026-10-05",
       "issues": [],
-      "evidence": [],
+      "evidence": [
+        "uploads/20261005_镀锌铁皮_081155_3yf3.jpg"
+      ],
       "remark": "",
       "out_of_scope": false,
       "id": "E-134"
     }
   ],
   "updated": "2026-10-11",
-  "__sha": "8b409a0848a77ad8476c1165ec5ad0db0e861f79"
+  "__sha": "c83c602a73087c39065998661d3331ae1b3e5840"
 }

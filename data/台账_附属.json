@@ -2745,8 +2745,27 @@
       "remark": "",
       "out_of_scope": false,
       "id": "E-133"
+    },
+    {
+      "group": "合同外材料",
+      "system": "",
+      "name": "镀锌铁皮",
+      "spec": "0.5mm厚",
+      "brand": "新金万利新",
+      "unit": "",
+      "qty": 15.85,
+      "arrival_qty": 0,
+      "arrival_date": "",
+      "arrival_status": "已到货",
+      "accept_status": "验收合格",
+      "accept_date": "2026-10-05",
+      "issues": [],
+      "evidence": [],
+      "remark": "",
+      "out_of_scope": false,
+      "id": "E-134"
     }
   ],
   "updated": "2026-10-11",
-  "__sha": "fe3e6a33330f8c69ad9fbbb881dd42fa62a71739"
+  "__sha": "f50885b64479cf3796a15d726ac5e3b7bdcd58f0"
 }

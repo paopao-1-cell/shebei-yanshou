@@ -1218,7 +1218,9 @@
       "accept_status": "验收合格",
       "accept_date": "2026-10-03",
       "issues": [],
-      "evidence": [],
+      "evidence": [
+        "uploads/20261003_不锈钢止回阀_081413_svkk.jpg"
+      ],
       "remark": ""
     },
     {
@@ -2773,5 +2775,5 @@
     }
   ],
   "updated": "2026-10-11",
-  "__sha": "c021cc4b3a4ab3fae97dd1748de72be71ae1de22"
+  "__sha": "8d3338d398681d2d4ac73a53b2e0bce0b3fab694"
 }

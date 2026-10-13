@@ -1479,7 +1479,9 @@
       "accept_status": "验收合格",
       "accept_date": "2026-10-03",
       "issues": [],
-      "evidence": [],
+      "evidence": [
+        "uploads/20261003_不锈钢电动调节阀_081726_uhc9.jpg"
+      ],
       "remark": ""
     },
     {
@@ -2779,5 +2781,5 @@
     }
   ],
   "updated": "2026-10-11",
-  "__sha": "087d22b0090ebae67966c9b02df86dcfcef3692e"
+  "__sha": "6576428083df5c0dc9cd0d8051115b3c8eaf60d5"
 }

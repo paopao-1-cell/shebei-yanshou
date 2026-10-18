@@ -262,13 +262,15 @@
       "spec": "风量26000CMH；新风2500CMH；供冷165KW；机外余压580PA；初效G4+中效F8过滤器；屋面安装；槽钢基础；搭建简易机房，聚氨酯50mm双面彩钢板",
       "unit": "台",
       "qty": 1,
-      "brand": "美的/格力/海尔",
-      "arrival_status": "未到货",
+      "brand": "美的",
+      "arrival_status": "已到货",
       "arrival_qty": 0,
       "arrival_date": "",
-      "accept_status": "待验收",
+      "accept_status": "验收合格",
       "accept_date": "2026-10-13",
-      "issues": [],
+      "issues": [
+        "电机功率15.0KW，产品型号：MKZS270FH3RRHN57FWOC"
+      ],
       "evidence": [
         "uploads/20261013_空调机组_023638_qp5e.jpg"
       ],
@@ -283,13 +285,15 @@
       "spec": "风量18000CMH；新风1800CMH；供冷112KW；机外余压430PA；其余同上",
       "unit": "台",
       "qty": 1,
-      "brand": "美的/格力/海尔",
-      "arrival_status": "未到货",
+      "brand": "美的",
+      "arrival_status": "已到货",
       "arrival_qty": 0,
       "arrival_date": "",
-      "accept_status": "待验收",
+      "accept_status": "验收合格",
       "accept_date": "2026-10-13",
-      "issues": [],
+      "issues": [
+        "电机功率7.5KW，产品型号：MKZS180FH3RRHN47FWOC"
+      ],
       "evidence": [
         "uploads/20261013_空调机组_023726_9yxy.jpg"
       ],
@@ -2826,5 +2830,5 @@
     }
   ],
   "updated": "2026-10-18",
-  "__sha": "b92360f83c794fc01c935179b8e082fe63d8b552"
+  "__sha": "b681285e1a3e046abb8d81806e669cbe66e798d8"
 }

@@ -267,9 +267,11 @@
       "arrival_qty": 0,
       "arrival_date": "",
       "accept_status": "待验收",
-      "accept_date": "",
+      "accept_date": "2026-10-13",
       "issues": [],
-      "evidence": [],
+      "evidence": [
+        "uploads/20261013_空调机组_023638_qp5e.jpg"
+      ],
       "remark": "一更&二更&品检&前处理"
     },
     {
@@ -2822,5 +2824,5 @@
     }
   ],
   "updated": "2026-10-18",
-  "__sha": "6576428083df5c0dc9cd0d8051115b3c8eaf60d5"
+  "__sha": "1a5e4f502cba49c147cb7bece3452997a680c257"
 }

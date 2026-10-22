@@ -103,7 +103,8 @@
       "accept_date": "2026-10-12",
       "issues": [],
       "evidence": [
-        "uploads/20261012_预处理用_082542_7e6w.jpg"
+        "uploads/20261012_预处理用_082542_7e6w.jpg",
+        "uploads/20261012_冷却水塔_024635_c1q8.jpg"
       ],
       "remark": ""
     },
@@ -2832,5 +2833,5 @@
     }
   ],
   "updated": "2026-10-18",
-  "__sha": "dd64f36b3dd42f09f194548115e4ab911df0f382"
+  "__sha": "2940e25fbb44bca8a9ca9f6407e0e9c3338e32ba"
 }

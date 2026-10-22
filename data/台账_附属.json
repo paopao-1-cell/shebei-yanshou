@@ -1582,9 +1582,11 @@
       "arrival_qty": 0,
       "arrival_date": "",
       "accept_status": "待验收",
-      "accept_date": "",
+      "accept_date": "2026-10-10",
       "issues": [],
-      "evidence": [],
+      "evidence": [
+        "uploads/20261010_电缆_023840_cx7s.jpg"
+      ],
       "remark": ""
     },
     {
@@ -2830,5 +2832,5 @@
     }
   ],
   "updated": "2026-10-18",
-  "__sha": "b681285e1a3e046abb8d81806e669cbe66e798d8"
+  "__sha": "dd64f36b3dd42f09f194548115e4ab911df0f382"
 }

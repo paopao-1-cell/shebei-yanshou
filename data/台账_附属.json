@@ -1582,14 +1582,14 @@
       "group": "电气与辅材",
       "system": "1.1.9 配电",
       "name": "电缆",
-      "spec": "",
+      "spec": "铜芯电缆，规格ZR-YJV0.6 1KW 1*240为306米；规格ZR-YJV0.6 1KW 1*120为204米；",
       "unit": "-",
-      "qty": 0,
-      "brand": "-",
-      "arrival_status": "未到货",
+      "qty": 306,
+      "brand": "江苏上上",
+      "arrival_status": "已到货",
       "arrival_qty": 0,
       "arrival_date": "",
-      "accept_status": "待验收",
+      "accept_status": "验收合格",
       "accept_date": "2026-10-10",
       "issues": [],
       "evidence": [
@@ -2840,5 +2840,5 @@
     }
   ],
   "updated": "2026-10-18",
-  "__sha": "fc7848ec5e85453167f5afcb0123ab455fe5763c"
+  "__sha": "431a3c4a91bfd8e35ed32ec65d00612c6e2ffc76"
 }

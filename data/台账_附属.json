@@ -78,9 +78,11 @@
       "arrival_status": "已到货",
       "arrival_qty": 0,
       "arrival_date": "",
-      "accept_status": "验收合格",
+      "accept_status": "异常待整改",
       "accept_date": "2026-10-12",
-      "issues": [],
+      "issues": [
+        "电机功率5.5KW"
+      ],
       "evidence": [
         "uploads/20261012_空调_结晶用_082515_iaca.jpg"
       ],
@@ -99,9 +101,11 @@
       "arrival_status": "已到货",
       "arrival_qty": 0,
       "arrival_date": "",
-      "accept_status": "验收合格",
+      "accept_status": "异常待整改",
       "accept_date": "2026-10-12",
-      "issues": [],
+      "issues": [
+        "电机功率3.7KW"
+      ],
       "evidence": [
         "uploads/20261012_预处理用_082542_7e6w.jpg",
         "uploads/20261012_冷却水塔_024635_c1q8.jpg"
@@ -121,9 +125,11 @@
       "arrival_status": "已到货",
       "arrival_qty": 0,
       "arrival_date": "",
-      "accept_status": "验收合格",
+      "accept_status": "异常待整改",
       "accept_date": "2026-10-12",
-      "issues": [],
+      "issues": [
+        "电机功率11KW"
+      ],
       "evidence": [
         "uploads/20261012_浓缩用_082557_hg2f.jpg"
       ],
@@ -2833,5 +2839,5 @@
     }
   ],
   "updated": "2026-10-18",
-  "__sha": "2940e25fbb44bca8a9ca9f6407e0e9c3338e32ba"
+  "__sha": "1593208a100032c9ad9e44aeb14b1248d7e293e6"
 }

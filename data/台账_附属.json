@@ -3016,12 +3016,14 @@
       "accept_status": "验收合格",
       "accept_date": "2026-10-16",
       "issues": [],
-      "evidence": [],
+      "evidence": [
+        "uploads/20261016_橡塑胶水_052553_jk11.jpg"
+      ],
       "remark": "",
       "out_of_scope": false,
       "id": "E-140"
     }
   ],
   "updated": "2026-11-24",
-  "__sha": "963f2c33e8ca133f47474288ab8b16bae379c192"
+  "__sha": "d708687acccff9aa1a8d7c9412e31a43c906738c"
 }

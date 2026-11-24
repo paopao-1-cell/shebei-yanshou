@@ -1614,16 +1614,16 @@
       "seq": "138",
       "group": "辅助设备",
       "system": "1.1.8 辅助设备",
-      "name": "外六角螺栓",
-      "spec": "304；M16*70",
+      "name": "储气罐",
+      "spec": "Y26016-91；容积3m³；主体材质S30408",
       "unit": "台",
-      "qty": 1800,
-      "brand": "泰州环星",
+      "qty": 1,
+      "brand": "上海申江",
       "arrival_status": "已到货",
       "arrival_qty": 1,
       "arrival_date": "2026-11-03",
-      "accept_status": "验收合格",
-      "accept_date": "2026-10-31",
+      "accept_status": "待验收",
+      "accept_date": "",
       "issues": [],
       "evidence": [
         "uploads/20261104_设备进厂点检表储气罐_20261124123632_yg7s.jpg"
@@ -2921,6 +2921,29 @@
       "id": "E-134"
     },
     {
+      "id": "E-142",
+      "seq": "142",
+      "group": "合同外材料",
+      "system": "",
+      "name": "法兰盘",
+      "spec": "304；DN80*16",
+      "brand": "温州瑞基",
+      "unit": "件",
+      "qty": 20,
+      "arrival_status": "已到货",
+      "arrival_qty": 0,
+      "arrival_date": "",
+      "accept_status": "验收合格",
+      "accept_date": "2026-10-31",
+      "issues": [],
+      "evidence": [
+        "uploads/20261026_温州瑞基法兰S30408证明书_20261124123604_n1yl.jpg",
+        "uploads/20261030_上海巨徽304不锈钢管法兰螺栓送货单_20261124123606_g2v0.jpg"
+      ],
+      "remark": "2026-11-24 恢复（原重复 E-135 两行清理后补建）",
+      "out_of_scope": false
+    },
+    {
       "group": "合同外材料",
       "system": "",
       "name": "法兰盘",
@@ -2963,28 +2986,6 @@
       "remark": "",
       "out_of_scope": false,
       "id": "E-137"
-    },
-    {
-      "group": "合同外材料",
-      "system": "",
-      "name": "外六角螺栓",
-      "spec": "304；M16*70",
-      "brand": "泰州环星",
-      "unit": "",
-      "qty": 1800,
-      "arrival_qty": 0,
-      "arrival_date": "",
-      "arrival_status": "已到货",
-      "accept_status": "验收合格",
-      "accept_date": "2026-10-31",
-      "issues": [],
-      "evidence": [
-        "uploads/20261031_外六角螺栓_053634_9twq.jpg"
-      ],
-      "remark": "",
-      "out_of_scope": false,
-      "id": "E-141",
-      "seq": "141"
     },
     {
       "group": "合同外材料",

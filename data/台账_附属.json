@@ -2743,27 +2743,6 @@
       "group": "合同外材料",
       "system": "",
       "name": "不锈钢球阀",
-      "spec": "Q11F-16P\nDN25",
-      "brand": "上海沪工",
-      "unit": "",
-      "qty": 8,
-      "arrival_qty": 0,
-      "arrival_date": "",
-      "arrival_status": "已到货",
-      "accept_status": "验收合格",
-      "accept_date": "2026-10-03",
-      "issues": [],
-      "evidence": [
-        "uploads/20261018_南京科尔福销售单_20261018090301_9220.jpg"
-      ],
-      "remark": "",
-      "out_of_scope": false,
-      "id": "E-125"
-    },
-    {
-      "group": "合同外材料",
-      "system": "",
-      "name": "不锈钢球阀",
       "spec": "Q11F-16P\nDN40",
       "brand": "上海沪工",
       "unit": "",
@@ -2780,27 +2759,6 @@
       "remark": "",
       "out_of_scope": false,
       "id": "E-126"
-    },
-    {
-      "group": "合同外材料",
-      "system": "",
-      "name": "不锈钢球阀",
-      "spec": "Q11F-16P\nDN50",
-      "brand": "上海沪工",
-      "unit": "",
-      "qty": 3,
-      "arrival_qty": 0,
-      "arrival_date": "",
-      "arrival_status": "已到货",
-      "accept_status": "验收合格",
-      "accept_date": "2026-10-03",
-      "issues": [],
-      "evidence": [
-        "uploads/20261018_南京科尔福销售单_20261018090301_9220.jpg"
-      ],
-      "remark": "",
-      "out_of_scope": false,
-      "id": "E-127"
     },
     {
       "group": "合同外材料",
@@ -3083,5 +3041,5 @@
     }
   ],
   "updated": "2026-11-24",
-  "__sha": "8a2a6c993f8fbbd27ff5a13668d6b6d8c92a2494"
+  "__sha": "11a966ce8e99b99a544414b4d472eab2e2caa82b"
 }

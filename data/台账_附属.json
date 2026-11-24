@@ -2997,7 +2997,9 @@
       "accept_status": "验收合格",
       "accept_date": "2026-10-16",
       "issues": [],
-      "evidence": [],
+      "evidence": [
+        "uploads/20261016_橡塑板_052613_b1md.jpg"
+      ],
       "remark": "",
       "out_of_scope": false,
       "id": "E-139"
@@ -3025,5 +3027,5 @@
     }
   ],
   "updated": "2026-11-24",
-  "__sha": "d708687acccff9aa1a8d7c9412e31a43c906738c"
+  "__sha": "77e6c5f4afb7ab7410805534ea9889688e87131a"
 }

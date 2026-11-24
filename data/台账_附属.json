@@ -3043,7 +3043,8 @@
       "accept_date": "2026-10-31",
       "issues": [],
       "evidence": [
-        "uploads/20261031_法兰盘_053919_fhxp.jpg"
+        "uploads/20261031_法兰盘_053919_fhxp.jpg",
+        "uploads/20261031_法兰盘_053942_dkz0.jpg"
       ],
       "remark": "",
       "out_of_scope": false,
@@ -3051,5 +3052,5 @@
     }
   ],
   "updated": "2026-11-24",
-  "__sha": "7928e3fbb269028292ea683fb9374c4ba0e4c2ab"
+  "__sha": "f94e278aa5df42e58b923df4cfc2904b9f764669"
 }

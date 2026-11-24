@@ -1467,9 +1467,11 @@
       "arrival_qty": 0,
       "arrival_date": "",
       "accept_status": "待验收",
-      "accept_date": "",
+      "accept_date": "2026-10-03",
       "issues": [],
-      "evidence": [],
+      "evidence": [
+        "uploads/20261003_不锈钢球阀_060859_1a5n.jpg"
+      ],
       "remark": ""
     },
     {
@@ -3075,5 +3077,5 @@
     }
   ],
   "updated": "2026-11-24",
-  "__sha": "ab37114505f24b6865eb3db90a54a19d391c8dd2"
+  "__sha": "c919a623b19da24bdb308a52fc79cb15d8c80329"
 }

@@ -3027,8 +3027,27 @@
       "remark": "",
       "out_of_scope": false,
       "id": "E-140"
+    },
+    {
+      "group": "合同外材料",
+      "system": "",
+      "name": "法兰盘",
+      "spec": "304；DN80*16",
+      "brand": "温州瑞基",
+      "unit": "",
+      "qty": 20,
+      "arrival_qty": 0,
+      "arrival_date": "",
+      "arrival_status": "已到货",
+      "accept_status": "验收合格",
+      "accept_date": "2026-10-31",
+      "issues": [],
+      "evidence": [],
+      "remark": "",
+      "out_of_scope": false,
+      "id": "E-142"
     }
   ],
   "updated": "2026-11-24",
-  "__sha": "28bc13787adfefd76792bda8831ff2fc338ac4a4"
+  "__sha": "dd38be1c399b537f73075e21ebc756c51f0a466c"
 }

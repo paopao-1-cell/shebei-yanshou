@@ -66,10 +66,10 @@
       "arrival_status": "已到货",
       "arrival_qty": 0,
       "arrival_date": "",
-      "accept_status": "异常待整改",
+      "accept_status": "验收合格",
       "accept_date": "2026-10-12",
       "issues": [
-        "电机功率5.5KW"
+        "实际电机功率5.5KW"
       ],
       "evidence": [
         "uploads/20261012_空调_结晶用_082515_iaca.jpg",
@@ -92,10 +92,10 @@
       "arrival_status": "已到货",
       "arrival_qty": 0,
       "arrival_date": "",
-      "accept_status": "异常待整改",
+      "accept_status": "验收合格",
       "accept_date": "2026-10-12",
       "issues": [
-        "电机功率3.7KW"
+        "实际电机功率3.7KW"
       ],
       "evidence": [
         "uploads/20261012_预处理用_082542_7e6w.jpg",
@@ -118,10 +118,10 @@
       "arrival_status": "已到货",
       "arrival_qty": 0,
       "arrival_date": "",
-      "accept_status": "异常待整改",
+      "accept_status": "验收合格",
       "accept_date": "2026-10-12",
       "issues": [
-        "电机功率11KW"
+        "实际电机功率11KW"
       ],
       "evidence": [
         "uploads/20261012_浓缩用_082557_hg2f.jpg",
@@ -2708,5 +2708,5 @@
     }
   ],
   "updated": "2026-11-24",
-  "__sha": "6571d74f966a28eae3d899819cfdad7d9d026d42"
+  "__sha": "8a52d029fde229f90f910eaedd8eb1af30410294"
 }

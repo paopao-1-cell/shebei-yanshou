@@ -2856,12 +2856,14 @@
       "accept_status": "验收合格",
       "accept_date": "2026-10-31",
       "issues": [],
-      "evidence": [],
+      "evidence": [
+        "uploads/20261031_法兰盘_023118_ztj3.jpg"
+      ],
       "remark": "",
       "out_of_scope": false,
       "id": "E-135"
     }
   ],
   "updated": "2026-10-18",
-  "__sha": "010ba472bb12a699ee0e1e07f3032f7e7960f9af"
+  "__sha": "c87d4b1d1684135775f7a9e556d27eb89cb683a9"
 }

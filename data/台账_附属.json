@@ -2621,29 +2621,6 @@
       "id": "E-134"
     },
     {
-      "id": "E-142",
-      "seq": "142",
-      "group": "合同外材料",
-      "system": "",
-      "name": "法兰盘",
-      "spec": "304；DN80*16",
-      "brand": "温州瑞基",
-      "unit": "件",
-      "qty": 20,
-      "arrival_status": "已到货",
-      "arrival_qty": 0,
-      "arrival_date": "",
-      "accept_status": "验收合格",
-      "accept_date": "2026-10-31",
-      "issues": [],
-      "evidence": [
-        "uploads/20261026_温州瑞基法兰S30408证明书_20261124123604_n1yl.jpg",
-        "uploads/20261030_上海巨徽304不锈钢管法兰螺栓送货单_20261124123606_g2v0.jpg"
-      ],
-      "remark": "2026-11-24 恢复（原重复 E-135 两行清理后补建）",
-      "out_of_scope": false
-    },
-    {
       "group": "合同外材料",
       "system": "",
       "name": "法兰盘",
@@ -2728,30 +2705,8 @@
       "remark": "",
       "out_of_scope": false,
       "id": "E-140"
-    },
-    {
-      "group": "合同外材料",
-      "system": "",
-      "name": "法兰盘",
-      "spec": "304；DN80*16",
-      "brand": "温州瑞基",
-      "unit": "",
-      "qty": 20,
-      "arrival_qty": 0,
-      "arrival_date": "",
-      "arrival_status": "已到货",
-      "accept_status": "验收合格",
-      "accept_date": "2026-10-31",
-      "issues": [],
-      "evidence": [
-        "uploads/20261031_法兰盘_053919_fhxp.jpg",
-        "uploads/20261031_法兰盘_053942_dkz0.jpg"
-      ],
-      "remark": "",
-      "out_of_scope": false,
-      "id": "E-142"
     }
   ],
   "updated": "2026-11-24",
-  "__sha": "6e41018c84fc44c0c60b97e00b2138acf0b55c34"
+  "__sha": "6571d74f966a28eae3d899819cfdad7d9d026d42"
 }

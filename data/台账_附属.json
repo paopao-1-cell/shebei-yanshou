@@ -1679,28 +1679,6 @@
       "out_of_scope": true
     },
     {
-      "id": "E-90",
-      "seq": "补11",
-      "group": "合同外材料",
-      "system": "",
-      "name": "卫生级不锈钢管",
-      "spec": "89*4mm（DN80，SUS304 卫生级）",
-      "brand": "华丰",
-      "unit": "米",
-      "qty": 108,
-      "remark": "标准验收之外的设备（红色标记处）。2026-09-07 验收合格。",
-      "arrival_status": "已到货",
-      "arrival_qty": 108,
-      "arrival_date": "2026-09-07",
-      "accept_status": "验收合格",
-      "accept_date": "2026-09-07",
-      "issues": [],
-      "evidence": [
-        "uploads/20250923_132907_01.jpg"
-      ],
-      "out_of_scope": true
-    },
-    {
       "id": "E-91",
       "seq": "补12",
       "group": "合同外材料",
@@ -2708,5 +2686,5 @@
     }
   ],
   "updated": "2026-11-24",
-  "__sha": "8a52d029fde229f90f910eaedd8eb1af30410294"
+  "__sha": "5de2098c37362ee143c271486215e536f5c1e051"
 }

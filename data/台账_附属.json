@@ -719,7 +719,7 @@
       "name": "不锈钢无缝管（SUS304）DN100",
       "spec": "GB/T14976-2012 (外径*壁厚)D108*4",
       "unit": "米",
-      "qty": 78,
+      "qty": 72,
       "brand": "华丰",
       "arrival_status": "已到货",
       "arrival_qty": 30,
@@ -770,7 +770,7 @@
       "name": "不锈钢无缝管（SUS304）DN150",
       "spec": "GB/T14976-2012 (外径*壁厚)D159*4.5",
       "unit": "米",
-      "qty": 203,
+      "qty": 330,
       "brand": "华丰",
       "arrival_status": "已到货",
       "arrival_qty": 203,
@@ -796,7 +796,7 @@
       "name": "不锈钢无缝管（SUS304）DN200",
       "spec": "GB/T14976-2012 (外径*壁厚)D219*6",
       "unit": "米",
-      "qty": 122,
+      "qty": 134,
       "brand": "华丰",
       "arrival_status": "已到货",
       "arrival_qty": 92,
@@ -1459,16 +1459,18 @@
       "group": "水管阀件与仪表",
       "system": "1.1.6 水系统管道",
       "name": "排污阀",
-      "spec": "DN50",
+      "spec": "Q11F-16P\nDN50",
       "unit": "只",
-      "qty": 2,
-      "brand": "-",
-      "arrival_status": "未到货",
+      "qty": 3,
+      "brand": "上海沪工",
+      "arrival_status": "已到货",
       "arrival_qty": 0,
       "arrival_date": "",
-      "accept_status": "待验收",
+      "accept_status": "验收合格",
       "accept_date": "2026-10-03",
-      "issues": [],
+      "issues": [
+        "不锈钢球阀"
+      ],
       "evidence": [
         "uploads/20261003_不锈钢球阀_060859_1a5n.jpg"
       ],
@@ -1480,16 +1482,18 @@
       "group": "水管阀件与仪表",
       "system": "1.1.6 水系统管道",
       "name": "排污阀",
-      "spec": "DN25",
+      "spec": "Q11F-16P\nDN25",
       "unit": "只",
-      "qty": 1,
-      "brand": "-",
-      "arrival_status": "未到货",
+      "qty": 8,
+      "brand": "上海沪工",
+      "arrival_status": "已到货",
       "arrival_qty": 0,
       "arrival_date": "",
-      "accept_status": "待验收",
+      "accept_status": "验收合格",
       "accept_date": "2026-10-03",
-      "issues": [],
+      "issues": [
+        "不锈钢球阀"
+      ],
       "evidence": [
         "uploads/20261003_不锈钢球阀_060937_gu5e.jpg"
       ],
@@ -3079,5 +3083,5 @@
     }
   ],
   "updated": "2026-11-24",
-  "__sha": "7c3eb020d4d0cddce50568d4e80b58fe2f221241"
+  "__sha": "0433d56b95e912a4c56d3a0cb2fcc195718cbfe5"
 }

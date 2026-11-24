@@ -701,7 +701,9 @@
       "issues": [
         "10.31到场6米"
       ],
-      "evidence": [],
+      "evidence": [
+        "uploads/20261031_不锈钢管_023232_9dby.jpg"
+      ],
       "remark": ""
     },
     {
@@ -2866,5 +2868,5 @@
     }
   ],
   "updated": "2026-10-18",
-  "__sha": "39cd2abdcfaa57e8c12ebddd26ff58a63e8ca2ba"
+  "__sha": "c1d2959c6701221743eb68e7ba226088e77f1e7d"
 }

@@ -3042,12 +3042,14 @@
       "accept_status": "验收合格",
       "accept_date": "2026-10-31",
       "issues": [],
-      "evidence": [],
+      "evidence": [
+        "uploads/20261031_法兰盘_053919_fhxp.jpg"
+      ],
       "remark": "",
       "out_of_scope": false,
       "id": "E-142"
     }
   ],
   "updated": "2026-11-24",
-  "__sha": "dd38be1c399b537f73075e21ebc756c51f0a466c"
+  "__sha": "7928e3fbb269028292ea683fb9374c4ba0e4c2ab"
 }

@@ -387,7 +387,9 @@
       "arrival_date": "",
       "accept_status": "待验收",
       "accept_date": "",
-      "issues": [],
+      "issues": [
+        "对接工务课"
+      ],
       "evidence": [],
       "remark": ""
     },
@@ -406,7 +408,9 @@
       "arrival_date": "",
       "accept_status": "待验收",
       "accept_date": "",
-      "issues": [],
+      "issues": [
+        "对接工务课"
+      ],
       "evidence": [],
       "remark": ""
     },
@@ -425,7 +429,9 @@
       "arrival_date": "",
       "accept_status": "待验收",
       "accept_date": "",
-      "issues": [],
+      "issues": [
+        "对接工务课"
+      ],
       "evidence": [],
       "remark": ""
     },
@@ -444,7 +450,9 @@
       "arrival_date": "",
       "accept_status": "待验收",
       "accept_date": "",
-      "issues": [],
+      "issues": [
+        "对接工务课"
+      ],
       "evidence": [],
       "remark": ""
     },
@@ -463,7 +471,9 @@
       "arrival_date": "",
       "accept_status": "待验收",
       "accept_date": "",
-      "issues": [],
+      "issues": [
+        "对接工务课"
+      ],
       "evidence": [],
       "remark": ""
     },
@@ -482,7 +492,9 @@
       "arrival_date": "",
       "accept_status": "待验收",
       "accept_date": "",
-      "issues": [],
+      "issues": [
+        "对接工务课"
+      ],
       "evidence": [],
       "remark": ""
     },
@@ -501,7 +513,9 @@
       "arrival_date": "",
       "accept_status": "待验收",
       "accept_date": "",
-      "issues": [],
+      "issues": [
+        "对接工务课"
+      ],
       "evidence": [],
       "remark": ""
     },
@@ -520,7 +534,9 @@
       "arrival_date": "",
       "accept_status": "待验收",
       "accept_date": "",
-      "issues": [],
+      "issues": [
+        "对接工务课"
+      ],
       "evidence": [],
       "remark": ""
     },
@@ -539,7 +555,9 @@
       "arrival_date": "",
       "accept_status": "待验收",
       "accept_date": "",
-      "issues": [],
+      "issues": [
+        "对接工务课"
+      ],
       "evidence": [],
       "remark": ""
     },
@@ -558,7 +576,9 @@
       "arrival_date": "",
       "accept_status": "待验收",
       "accept_date": "",
-      "issues": [],
+      "issues": [
+        "对接工务课"
+      ],
       "evidence": [],
       "remark": ""
     },
@@ -649,7 +669,7 @@
       "spec": "GB/T14976-2012 (外径*壁厚)D76*4",
       "unit": "米",
       "qty": 36,
-      "brand": "-",
+      "brand": "华丰",
       "arrival_status": "已到货",
       "arrival_qty": 0,
       "arrival_date": "",
@@ -726,7 +746,7 @@
       "spec": "GB/T14976-2012 (外径*壁厚)D133*4",
       "unit": "米",
       "qty": 6,
-      "brand": "-",
+      "brand": "华丰",
       "arrival_status": "已到货",
       "arrival_qty": 0,
       "arrival_date": "",
@@ -3055,5 +3075,5 @@
     }
   ],
   "updated": "2026-11-24",
-  "__sha": "92d57aea0166869d561d7e0b58b507df5ca3da6b"
+  "__sha": "ab37114505f24b6865eb3db90a54a19d391c8dd2"
 }

@@ -2978,7 +2978,9 @@
       "accept_status": "验收合格",
       "accept_date": "2026-10-31",
       "issues": [],
-      "evidence": [],
+      "evidence": [
+        "uploads/20261031_外六角螺栓_053634_9twq.jpg"
+      ],
       "remark": "",
       "out_of_scope": false,
       "id": "E-141",
@@ -3028,5 +3030,5 @@
     }
   ],
   "updated": "2026-11-24",
-  "__sha": "77e6c5f4afb7ab7410805534ea9889688e87131a"
+  "__sha": "28bc13787adfefd76792bda8831ff2fc338ac4a4"
 }

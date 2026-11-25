@@ -2866,7 +2866,7 @@
       "system": "",
       "name": "法兰盘",
       "spec": "304；DN80*16",
-      "brand": "",
+      "brand": "温州瑞基",
       "unit": "",
       "qty": 20,
       "arrival_qty": 0,
@@ -2906,5 +2906,5 @@
     }
   ],
   "updated": "2026-11-25",
-  "__sha": "2c1b02fd54037a7f32bc4f88dd425a860a9c69c9"
+  "__sha": "f02d9a54d8a176a774a11ec61458ef7f2cfcef50"
 }

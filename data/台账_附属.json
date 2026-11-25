@@ -2897,12 +2897,14 @@
       "accept_status": "验收合格",
       "accept_date": "2026-11-08",
       "issues": [],
-      "evidence": [],
+      "evidence": [
+        "uploads/20261108_送货单_021812_8402.jpg"
+      ],
       "remark": "",
       "out_of_scope": false,
       "id": "E-142"
     }
   ],
   "updated": "2026-11-25",
-  "__sha": "459249ecb3eb506297a2f96b753858b71f6a535a"
+  "__sha": "798e8f611c79dd4ccd0408baf6ec498ddfadb7b8"
 }

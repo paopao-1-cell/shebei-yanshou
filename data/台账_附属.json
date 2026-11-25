@@ -1033,13 +1033,13 @@
       "unit": "m²",
       "qty": 154,
       "brand": "新金万利新",
-      "arrival_status": "部分到货",
+      "arrival_status": "已到货",
       "arrival_qty": 0,
       "arrival_date": "",
-      "accept_status": "异常待整改",
+      "accept_status": "验收合格",
       "accept_date": "2026-10-05",
       "issues": [
-        "实际到131.38m²，差22.62"
+        "10.5和11.8分批到货"
       ],
       "evidence": [
         "uploads/20261005_镀锌铁皮_081100_lulq.jpg",
@@ -1057,13 +1057,13 @@
       "unit": "m²",
       "qty": 415,
       "brand": "新金万利新",
-      "arrival_status": "部分到货",
+      "arrival_status": "已到货",
       "arrival_qty": 0,
       "arrival_date": "",
-      "accept_status": "异常待整改",
+      "accept_status": "验收合格",
       "accept_date": "2026-10-05",
       "issues": [
-        "实际到361.02m²，差53.98"
+        "10.5和11.8分批到货"
       ],
       "evidence": [
         "uploads/20260317_河北新金万利镀锌卷质量证明书_20261124123553_een9.jpg"
@@ -1080,13 +1080,13 @@
       "unit": "m²",
       "qty": 213,
       "brand": "新金万利新",
-      "arrival_status": "部分到货",
+      "arrival_status": "已到货",
       "arrival_qty": 0,
       "arrival_date": "",
-      "accept_status": "异常待整改",
+      "accept_status": "验收合格",
       "accept_date": "2026-10-05",
       "issues": [
-        "实际到176.32m²，差36.68"
+        "10.5和11.8分批到货"
       ],
       "evidence": [
         "uploads/20260317_河北新金万利镀锌卷质量证明书_20261124123553_een9.jpg"
@@ -1436,10 +1436,10 @@
       "unit": "只",
       "qty": 20,
       "brand": "-",
-      "arrival_status": "未到货",
+      "arrival_status": "已到货",
       "arrival_qty": 0,
       "arrival_date": "",
-      "accept_status": "待验收",
+      "accept_status": "验收合格",
       "accept_date": "",
       "issues": [],
       "evidence": [],
@@ -1455,10 +1455,10 @@
       "unit": "只",
       "qty": 20,
       "brand": "-",
-      "arrival_status": "未到货",
+      "arrival_status": "已到货",
       "arrival_qty": 0,
       "arrival_date": "",
-      "accept_status": "待验收",
+      "accept_status": "验收合格",
       "accept_date": "",
       "issues": [],
       "evidence": [],
@@ -1537,8 +1537,8 @@
       "arrival_status": "已到货",
       "arrival_qty": 1,
       "arrival_date": "2026-11-03",
-      "accept_status": "待验收",
-      "accept_date": "",
+      "accept_status": "验收合格",
+      "accept_date": "2026-11-04",
       "issues": [],
       "evidence": [
         "uploads/20261104_设备进厂点检表储气罐_20261124123632_yg7s.jpg"
@@ -2856,8 +2856,27 @@
       "remark": "",
       "out_of_scope": false,
       "id": "E-140"
+    },
+    {
+      "group": "合同外材料",
+      "system": "",
+      "name": "法兰盘",
+      "spec": "304；DN80*16",
+      "brand": "",
+      "unit": "",
+      "qty": 20,
+      "arrival_qty": 0,
+      "arrival_date": "",
+      "arrival_status": "已到货",
+      "accept_status": "验收合格",
+      "accept_date": "2026-10-31",
+      "issues": [],
+      "evidence": [],
+      "remark": "",
+      "out_of_scope": false,
+      "id": "E-141"
     }
   ],
   "updated": "2026-11-25",
-  "__sha": "a64b15a34121a958d89e846d2cefe903dad72817"
+  "__sha": "3aa69b8a038826ddb9f4a1335951367ebeb8124a"
 }

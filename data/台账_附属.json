@@ -815,7 +815,7 @@
       "unit": "个",
       "qty": 4,
       "brand": "山东汉辉",
-      "arrival_status": "部分到货",
+      "arrival_status": "已到货",
       "arrival_qty": 4,
       "arrival_date": "2026-11-08",
       "accept_status": "验收合格",
@@ -2906,5 +2906,5 @@
     }
   ],
   "updated": "2026-11-25",
-  "__sha": "798e8f611c79dd4ccd0408baf6ec498ddfadb7b8"
+  "__sha": "2c1b02fd54037a7f32bc4f88dd425a860a9c69c9"
 }

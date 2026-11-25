@@ -2882,8 +2882,27 @@
       "remark": "",
       "out_of_scope": false,
       "id": "E-141"
+    },
+    {
+      "group": "合同外材料",
+      "system": "",
+      "name": "防雨罩",
+      "spec": "",
+      "brand": "",
+      "unit": "",
+      "qty": 1,
+      "arrival_qty": 0,
+      "arrival_date": "",
+      "arrival_status": "已到货",
+      "accept_status": "验收合格",
+      "accept_date": "2026-11-08",
+      "issues": [],
+      "evidence": [],
+      "remark": "",
+      "out_of_scope": false,
+      "id": "E-142"
     }
   ],
   "updated": "2026-11-25",
-  "__sha": "2b10578e07f037cd91ff34541427527040cf2404"
+  "__sha": "459249ecb3eb506297a2f96b753858b71f6a535a"
 }

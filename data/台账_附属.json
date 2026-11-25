@@ -2875,12 +2875,14 @@
       "accept_status": "验收合格",
       "accept_date": "2026-10-31",
       "issues": [],
-      "evidence": [],
+      "evidence": [
+        "uploads/20261031_证明书_021651_blls.jpg"
+      ],
       "remark": "",
       "out_of_scope": false,
       "id": "E-141"
     }
   ],
   "updated": "2026-11-25",
-  "__sha": "ce4d5df58a36ed633246682e8783280c1f3ce23a"
+  "__sha": "b305ca2bc650ad7d1050f0a397f15b18807da945"
 }

@@ -1447,7 +1447,8 @@
       "accept_date": "2026-11-14",
       "issues": [],
       "evidence": [
-        "uploads/20261114_温度计合格证_003412_h8nq.jpg"
+        "uploads/20261114_温度计合格证_003412_h8nq.jpg",
+        "uploads/20261114_温度计合格证_003440_jbke.jpg"
       ],
       "remark": ""
     },
@@ -2908,5 +2909,5 @@
     }
   ],
   "updated": "2026-11-25",
-  "__sha": "d5ae58468186e0e247043c54796b9e22d75280d8"
+  "__sha": "17f180cbfc8f436c9ddea06e3a5638b4ecc9a5b8"
 }

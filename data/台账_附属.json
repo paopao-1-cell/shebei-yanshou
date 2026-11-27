@@ -1444,9 +1444,11 @@
       "arrival_qty": 0,
       "arrival_date": "",
       "accept_status": "验收合格",
-      "accept_date": "",
+      "accept_date": "2026-11-14",
       "issues": [],
-      "evidence": [],
+      "evidence": [
+        "uploads/20261114_温度计合格证_003412_h8nq.jpg"
+      ],
       "remark": ""
     },
     {
@@ -2906,5 +2908,5 @@
     }
   ],
   "updated": "2026-11-25",
-  "__sha": "f02d9a54d8a176a774a11ec61458ef7f2cfcef50"
+  "__sha": "d5ae58468186e0e247043c54796b9e22d75280d8"
 }

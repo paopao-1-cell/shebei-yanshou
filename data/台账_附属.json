@@ -1469,7 +1469,8 @@
       "accept_date": "2026-11-14",
       "issues": [],
       "evidence": [
-        "uploads/20261114_压力表合格证_003503_b4we.jpg"
+        "uploads/20261114_压力表合格证_003503_b4we.jpg",
+        "uploads/20261114_压力表合格证_003527_lcf6.jpg"
       ],
       "remark": ""
     },
@@ -2911,5 +2912,5 @@
     }
   ],
   "updated": "2026-11-25",
-  "__sha": "03ccb0ce9da73eb50e44177c826d28c809885ed8"
+  "__sha": "5cafe6a3bbd6b96b0351e9e0fde12f46855486e1"
 }

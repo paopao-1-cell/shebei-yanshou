@@ -1436,16 +1436,18 @@
       "group": "水管阀件与仪表",
       "system": "1.1.6 水系统管道",
       "name": "温度计",
-      "spec": "",
+      "spec": "WSS-413",
       "unit": "只",
-      "qty": 20,
-      "brand": "-",
+      "qty": 28,
+      "brand": "上海仪川",
       "arrival_status": "已到货",
       "arrival_qty": 0,
       "arrival_date": "",
       "accept_status": "验收合格",
       "accept_date": "2026-11-14",
-      "issues": [],
+      "issues": [
+        "合同标准20只"
+      ],
       "evidence": [
         "uploads/20261114_温度计合格证_003412_h8nq.jpg",
         "uploads/20261114_温度计合格证_003440_jbke.jpg"
@@ -1460,14 +1462,16 @@
       "name": "压力表",
       "spec": "",
       "unit": "只",
-      "qty": 20,
-      "brand": "-",
+      "qty": 36,
+      "brand": "新华大红日",
       "arrival_status": "已到货",
       "arrival_qty": 0,
       "arrival_date": "",
       "accept_status": "验收合格",
       "accept_date": "2026-11-14",
-      "issues": [],
+      "issues": [
+        "合同标准20只"
+      ],
       "evidence": [
         "uploads/20261114_压力表合格证_003503_b4we.jpg",
         "uploads/20261114_压力表合格证_003527_lcf6.jpg",
@@ -2913,5 +2917,5 @@
     }
   ],
   "updated": "2026-11-25",
-  "__sha": "f3b99283fa02d3903d75ccc6e0e154209ed7237f"
+  "__sha": "c4f6d853c2324d737feda0992c2f90bd273bcdb0"
 }

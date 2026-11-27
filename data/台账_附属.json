@@ -1466,9 +1466,11 @@
       "arrival_qty": 0,
       "arrival_date": "",
       "accept_status": "验收合格",
-      "accept_date": "",
+      "accept_date": "2026-11-14",
       "issues": [],
-      "evidence": [],
+      "evidence": [
+        "uploads/20261114_压力表合格证_003503_b4we.jpg"
+      ],
       "remark": ""
     },
     {
@@ -2909,5 +2911,5 @@
     }
   ],
   "updated": "2026-11-25",
-  "__sha": "17f180cbfc8f436c9ddea06e3a5638b4ecc9a5b8"
+  "__sha": "03ccb0ce9da73eb50e44177c826d28c809885ed8"
 }
